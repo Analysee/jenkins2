@@ -1,10 +1,10 @@
-# springboot-hello-world-jsp
+﻿# springboot-hello-world-jsp
 Day 5 - Spring Boot - Hello World Example with JSP
 
 
 > In this tutorial you will know how to create Hello World Example with JSP in Spring Boot in simplest way.
 
-
+s
 ### Project Structure
 
 ![](extra/step3.JPG)
